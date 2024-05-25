@@ -1,16 +1,11 @@
-# digital_school_assesment
+### Assessment Tracker
 
-A new Flutter project.
+This is an application built with Flutter and Firebase, developed as an experiment. Through this project, I learned how to manage data, authenticate users, store and synchronize data both online and offline, and manage the state of an app. Finally, I successfully built the APK version of my app.
 
-## Getting Started
+I used the following technologies to develop and implement my features:
 
-This project is a starting point for a Flutter application.
+- **Firebase Authentication**: To authenticate users.
+- **Cloud Firestore**: To store and manage data.
+- **GetX**: To manage the state of the app and handle navigation.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project provided valuable hands-on experience with these powerful tools and frameworks, enhancing my skills in mobile app development.
