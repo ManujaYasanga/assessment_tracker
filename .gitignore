@@ -1,0 +1,113 @@
+# Flutter/Dart related files
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+*.iml
+*.ipr
+*.iws
+*.log
+*.hprof
+*.pyc
+*.pyo
+*.swp
+*.class
+.idea/
+android/.gradle/
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/engine.xcframework
+.DS_Store
+.env
+
+# Web related files
+web/manifest.json
+
+# Firebase related files
+firebase-debug.log
+firebase-debug.log.*
+
+# Miscellaneous
+*.log
+*.lock
+*.tar.gz
+*.zip
+*.sqlite
+*.py[cod]
+*.whl
+
+# Mac specific files
+*.xcuserstate
+*.xcworkspace
+*.xcassets
+*.xcuserdatad
+*.xcscmblueprint
+
+# JetBrains specific files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.so
+*.dylib
+
+# Distribution / packaging
+*.deb
+*.rpm
+*.exe
+*.tar.gz
+*.whl
+*.jar
+
+# C++ specific files
+*.sdf
+*.opensdf
+*.sln
+*.vcxproj*
+*.vcxproj.*
+
+# Linux generated files
+*.pid
+*.state
+*.plasma
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Code Coverage
+coverage/
+
+# Node.js dependencies
+node_modules/
+
+# Firebase emulator files
+firebase-debug.log
+
+# VS Code specific files
+.vscode/
+
+# Android Studio specific files
+*.keystore
+*.jks
+android/key.properties
+
+# IntelliJ specific files
+*.iml
+*.ipr
+*.iws
+.idea/
